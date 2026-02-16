@@ -1,0 +1,6 @@
+id,name,title,role,folder
+.bmad/bmm/agents/analyst.md,Mary,Senior Business Analyst,Analista de Negocio,.bmad/bmm/agents/
+.bmad/bmm/agents/architect.md,Winston,Solution Architect,Arquitecto de Soluciones,.bmad/bmm/agents/
+.bmad/bmm/agents/pm.md,John,Project Manager,Gestor de Proyecto,.bmad/bmm/agents/
+.bmad/bmm/agents/sm.md,Bob,Scrum Master,Facilitador Ágil,.bmad/bmm/agents/
+.bmad/bmm/agents/ux-designer.md,Sally,UX Designer,Diseñadora de Experiencia,.bmad/bmm/agents/
